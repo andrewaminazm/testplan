@@ -1,0 +1,9 @@
+Test Plan for Web Application Application
+Risk Level: Low
+Description:
+ecommerce
+
+Suggested Test Points:
+1. Test basic UI elements
+2. Test navigation between pages
+3. Check form validations
