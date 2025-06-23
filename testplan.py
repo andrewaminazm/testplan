@@ -4,7 +4,7 @@ import requests
 from docx import Document
 from fpdf import FPDF
 
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "u api "
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 class TestPlanBuilderAI:
